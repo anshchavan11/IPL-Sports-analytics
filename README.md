@@ -2,7 +2,7 @@
 
 A complete sports-analytics pipeline built on IPL (Indian Premier League) cricket data — covering **SQL, Excel, PowerPoint, and a live interactive dashboard**. Built as a portfolio project to demonstrate foundational + intermediate data analysis skills end-to-end.
 
-**[Live Dashboard →](https://anshchavan11.github.io/ipl-sports-analytics/)**
+**[Live Dashboard →](https://anshchavan11.github.io/IPL-Sports-analytics/)**
 
 ---
 
