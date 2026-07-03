@@ -1,0 +1,607 @@
+id,season,date,team1,team2,venue,city,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,player_of_match,result
+1,2016,2016-03-25,Kolkata Knight Riders,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,Kolkata Knight Riders,field,Kolkata Knight Riders,0,1,Washington Stokes,normal
+2,2016,2016-03-26,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Delhi Capitals,42,0,Sanju Kumar,normal
+3,2016,2016-03-27,Chennai Super Kings,Punjab Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Punjab Kings,field,Chennai Super Kings,6,0,Mitchell Paine,normal
+4,2016,2016-03-28,Royal Challengers Bangalore,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Kolkata Knight Riders,field,Kolkata Knight Riders,0,10,Sanju Pooran,normal
+5,2016,2016-03-29,Rajasthan Royals,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Rajasthan Royals,25,0,Shubman de Kock,normal
+6,2016,2016-03-30,Punjab Kings,Delhi Capitals,"Punjab Cricket Association Stadium, Mohali",Mohali,Delhi Capitals,field,Punjab Kings,6,0,David Curran,normal
+7,2016,2016-03-31,Punjab Kings,Royal Challengers Bangalore,"M. A. Chidambaram Stadium, Chennai",Chennai,Punjab Kings,field,Royal Challengers Bangalore,30,0,Mohammed Rahane,normal
+8,2016,2016-04-01,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Sunrisers Hyderabad,23,0,Tim Russell,normal
+9,2016,2016-04-02,Punjab Kings,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,bat,Chennai Super Kings,0,6,Kuldeep Sundar,normal
+10,2016,2016-04-03,Rajasthan Royals,Mumbai Indians,"M. A. Chidambaram Stadium, Chennai",Chennai,Mumbai Indians,bat,Mumbai Indians,0,4,KL Yadav,normal
+11,2016,2016-04-04,Royal Challengers Bangalore,Rajasthan Royals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,36,0,Mohammed Rahane,normal
+12,2016,2016-04-05,Chennai Super Kings,Sunrisers Hyderabad,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,bat,Chennai Super Kings,0,7,Tim Sharma,normal
+13,2016,2016-04-06,Kolkata Knight Riders,Delhi Capitals,"Punjab Cricket Association Stadium, Mohali",Mohali,Kolkata Knight Riders,field,Delhi Capitals,0,5,Liam Green,normal
+14,2016,2016-04-07,Rajasthan Royals,Royal Challengers Bangalore,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,bat,Rajasthan Royals,60,0,Ben Bumrah,normal
+15,2016,2016-04-08,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",Mumbai,Chennai Super Kings,field,Mumbai Indians,0,2,Trent Sundar,normal
+16,2016,2016-04-09,Sunrisers Hyderabad,Chennai Super Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Chennai Super Kings,0,3,Prithvi Chahal,normal
+17,2016,2016-04-10,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,10,Deepak Pooran,normal
+18,2016,2016-04-11,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,0,4,Ravindra Bairstow,normal
+19,2016,2016-04-12,Chennai Super Kings,Mumbai Indians,"M. A. Chidambaram Stadium, Chennai",Chennai,Mumbai Indians,field,Mumbai Indians,33,0,Mohammed Labuschagne,tie
+20,2016,2016-04-13,Punjab Kings,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",Mohali,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,0,8,Marnus Buttler,normal
+21,2016,2016-04-14,Mumbai Indians,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Royal Challengers Bangalore,0,5,Shardul Livingstone,normal
+22,2016,2016-04-15,Royal Challengers Bangalore,Punjab Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Royal Challengers Bangalore,bat,Punjab Kings,0,1,Ravindra Stoinis,normal
+23,2016,2016-04-16,Royal Challengers Bangalore,Chennai Super Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,36,0,Ishan Gill,tie
+24,2016,2016-04-17,Punjab Kings,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Mohali,Kolkata Knight Riders,field,Punjab Kings,0,5,Prithvi Yadav,normal
+25,2016,2016-04-18,Punjab Kings,Rajasthan Royals,"M. A. Chidambaram Stadium, Chennai",Chennai,Rajasthan Royals,bat,Punjab Kings,6,0,Aiden Chahar,normal
+26,2016,2016-04-19,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",Mumbai,Punjab Kings,bat,Punjab Kings,0,2,Sanju Cummins,normal
+27,2016,2016-04-20,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,bat,Rajasthan Royals,51,0,Jos Rahane,normal
+28,2016,2016-04-21,Rajasthan Royals,Sunrisers Hyderabad,"Ekana Cricket Stadium, Lucknow",Lucknow,Sunrisers Hyderabad,field,Sunrisers Hyderabad,30,0,Pat Bumrah,tie
+29,2016,2016-04-22,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,bat,Punjab Kings,46,0,Ravichandran Russell,normal
+30,2016,2016-04-23,Chennai Super Kings,Rajasthan Royals,"M. A. Chidambaram Stadium, Chennai",Chennai,Rajasthan Royals,bat,Chennai Super Kings,4,0,Pat Chahal,normal
+31,2016,2016-04-24,Rajasthan Royals,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Rajasthan Royals,field,Rajasthan Royals,59,0,Virat Ashwin,normal
+32,2016,2016-04-25,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,0,3,Kane Shaw,normal
+33,2016,2016-04-26,Royal Challengers Bangalore,Delhi Capitals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Delhi Capitals,bat,Royal Challengers Bangalore,0,2,Mohammed Rahane,normal
+34,2016,2016-04-27,Chennai Super Kings,Delhi Capitals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Delhi Capitals,bat,Delhi Capitals,15,0,Mohammed Williamson,normal
+35,2016,2016-04-28,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Delhi Capitals,0,3,Kane Rabada,normal
+36,2016,2016-04-29,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai,Rajasthan Royals,field,Mumbai Indians,0,3,Marnus Ashwin,normal
+37,2016,2016-04-30,Royal Challengers Bangalore,Mumbai Indians,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Mumbai Indians,bat,Mumbai Indians,0,2,Faf Iyer,normal
+38,2016,2016-05-01,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,0,1,Alex Chahar,normal
+39,2016,2016-05-02,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,0,5,Tim Russell,normal
+40,2016,2016-05-03,Kolkata Knight Riders,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Chennai Super Kings,field,Kolkata Knight Riders,0,1,Mitchell Starc,normal
+41,2016,2016-05-04,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mohali,Mumbai Indians,field,Punjab Kings,0,1,Tim Lynn,normal
+42,2016,2016-05-05,Rajasthan Royals,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Kolkata Knight Riders,20,0,Pat Labuschagne,normal
+43,2016,2016-05-06,Rajasthan Royals,Punjab Kings,"Punjab Cricket Association Stadium, Mohali",Mohali,Rajasthan Royals,bat,Rajasthan Royals,22,0,Glenn Pooran,normal
+44,2016,2016-05-07,Royal Challengers Bangalore,Sunrisers Hyderabad,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,9,Quinton Bumrah,normal
+45,2016,2016-05-08,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Mumbai Indians,0,2,Liam Jadeja,normal
+46,2016,2016-05-09,Kolkata Knight Riders,Royal Challengers Bangalore,"Sawai Mansingh Stadium, Jaipur",Jaipur,Kolkata Knight Riders,field,Royal Challengers Bangalore,0,6,Alex Behrendorff,normal
+47,2016,2016-05-10,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Mumbai,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,1,Aiden Starc,normal
+48,2016,2016-05-11,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,field,Kolkata Knight Riders,66,0,Axar Chahar,normal
+49,2016,2016-05-12,Delhi Capitals,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Mohali,Kolkata Knight Riders,bat,Delhi Capitals,83,0,Axar Rahane,normal
+50,2016,2016-05-13,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",Kolkata,Rajasthan Royals,bat,Kolkata Knight Riders,0,10,Nicholas Labuschagne,normal
+51,2016,2016-05-14,Chennai Super Kings,Kolkata Knight Riders,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Chennai Super Kings,0,6,Jos Sundar,normal
+52,2016,2016-05-15,Chennai Super Kings,Royal Challengers Bangalore,"Eden Gardens, Kolkata",Kolkata,Royal Challengers Bangalore,field,Chennai Super Kings,0,4,Jasprit Samson,normal
+53,2016,2016-05-16,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,0,7,Marnus du Plessis,normal
+54,2016,2016-05-17,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai,Kolkata Knight Riders,field,Kolkata Knight Riders,16,0,Ben Starc,normal
+55,2016,2016-05-18,Delhi Capitals,Royal Challengers Bangalore,"M. A. Chidambaram Stadium, Chennai",Chennai,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,96,0,Virat Pandya,normal
+56,2016,2016-05-19,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",Delhi,Punjab Kings,field,Delhi Capitals,3,0,Axar Rahane,normal
+57,2017,2017-03-25,Chennai Super Kings,Punjab Kings,"Punjab Cricket Association Stadium, Mohali",Mohali,Chennai Super Kings,bat,Chennai Super Kings,6,0,Hardik Russell,normal
+58,2017,2017-03-26,Chennai Super Kings,Delhi Capitals,"M. A. Chidambaram Stadium, Chennai",Chennai,Delhi Capitals,field,Delhi Capitals,3,0,Tim Shami,normal
+59,2017,2017-03-27,Rajasthan Royals,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,bat,Kolkata Knight Riders,0,2,Nicholas Labuschagne,normal
+60,2017,2017-03-28,Rajasthan Royals,Royal Challengers Bangalore,"M. A. Chidambaram Stadium, Chennai",Chennai,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,5,0,Ishan Gill,normal
+61,2017,2017-03-29,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,25,0,Alex Sundar,normal
+62,2017,2017-03-30,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,2,Alex Chahal,normal
+63,2017,2017-03-31,Kolkata Knight Riders,Rajasthan Royals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Rajasthan Royals,bat,Kolkata Knight Riders,31,0,Bhuvneshwar Kishan,normal
+64,2017,2017-04-01,Chennai Super Kings,Rajasthan Royals,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,bat,Rajasthan Royals,0,3,Ben Bumrah,normal
+65,2017,2017-04-02,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Punjab Kings,field,Rajasthan Royals,0,2,Jos Rahane,normal
+66,2017,2017-04-03,Mumbai Indians,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Delhi,Mumbai Indians,bat,Mumbai Indians,0,10,Chris Ashwin,normal
+67,2017,2017-04-04,Rajasthan Royals,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,bat,Chennai Super Kings,34,0,Jason Rahane,normal
+68,2017,2017-04-05,Punjab Kings,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,bat,Punjab Kings,20,0,Andre Chahar,normal
+69,2017,2017-04-06,Delhi Capitals,Royal Challengers Bangalore,"Eden Gardens, Kolkata",Kolkata,Delhi Capitals,field,Royal Challengers Bangalore,9,0,Ishan Gill,normal
+70,2017,2017-04-07,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Punjab Kings,0,1,Aiden Chahar,normal
+71,2017,2017-04-08,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Mumbai,Sunrisers Hyderabad,field,Sunrisers Hyderabad,9,0,Rashid Pujara,normal
+72,2017,2017-04-09,Mumbai Indians,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",Jaipur,Mumbai Indians,field,Mumbai Indians,27,0,Shreyas Pant,normal
+73,2017,2017-04-10,Royal Challengers Bangalore,Kolkata Knight Riders,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,bat,Kolkata Knight Riders,0,6,Axar Chahar,normal
+74,2017,2017-04-11,Punjab Kings,Delhi Capitals,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,bat,Punjab Kings,0,1,Axar Chahal,normal
+75,2017,2017-04-12,Mumbai Indians,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Punjab Kings,field,Punjab Kings,57,0,Jos Iyer,normal
+76,2017,2017-04-13,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",Jaipur,Mumbai Indians,bat,Mumbai Indians,0,6,Liam Yadav,normal
+77,2017,2017-04-14,Punjab Kings,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Mohali,Kolkata Knight Riders,bat,Punjab Kings,0,10,David Jadeja,normal
+78,2017,2017-04-15,Punjab Kings,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Mumbai,Punjab Kings,field,Sunrisers Hyderabad,0,2,Ajinkya Rahane,normal
+79,2017,2017-04-16,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,3,Marcus Labuschagne,normal
+80,2017,2017-04-17,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Chennai Super Kings,field,Chennai Super Kings,36,0,Pat Chahal,normal
+81,2017,2017-04-18,Mumbai Indians,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Mohali,Rajasthan Royals,field,Mumbai Indians,15,0,Ravindra Sundar,normal
+82,2017,2017-04-19,Royal Challengers Bangalore,Delhi Capitals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,7,Ishan Stoinis,normal
+83,2017,2017-04-20,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",Jaipur,Sunrisers Hyderabad,field,Rajasthan Royals,0,10,Aiden Ashwin,normal
+84,2017,2017-04-21,Kolkata Knight Riders,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,0,2,MS Smith,normal
+85,2017,2017-04-22,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,6,0,Mitchell Thakur,normal
+86,2017,2017-04-23,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",Kolkata,Delhi Capitals,field,Kolkata Knight Riders,0,4,Hardik Warner,normal
+87,2017,2017-04-24,Rajasthan Royals,Delhi Capitals,"Ekana Cricket Stadium, Lucknow",Lucknow,Delhi Capitals,field,Rajasthan Royals,1,0,Sam Williamson,normal
+88,2017,2017-04-25,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Delhi Capitals,bat,Delhi Capitals,26,0,Marcus Thakur,normal
+89,2017,2017-04-26,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Mumbai Indians,0,3,Jasprit Dhoni,normal
+90,2017,2017-04-27,Delhi Capitals,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mohali,Mumbai Indians,field,Mumbai Indians,0,2,Tim Pooran,normal
+91,2017,2017-04-28,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",Delhi,Sunrisers Hyderabad,field,Sunrisers Hyderabad,40,0,Faf Samson,normal
+92,2017,2017-04-29,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",Delhi,Punjab Kings,field,Delhi Capitals,0,2,Steve Rahane,normal
+93,2017,2017-04-30,Chennai Super Kings,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai,Chennai Super Kings,bat,Royal Challengers Bangalore,0,2,Rohit Maxwell,normal
+94,2017,2017-05-01,Kolkata Knight Riders,Chennai Super Kings,"Eden Gardens, Kolkata",Kolkata,Chennai Super Kings,field,Chennai Super Kings,0,2,Kuldeep Patel,normal
+95,2017,2017-05-02,Royal Challengers Bangalore,Rajasthan Royals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,2,KL Maxwell,normal
+96,2017,2017-05-03,Delhi Capitals,Kolkata Knight Riders,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Kolkata Knight Riders,field,Delhi Capitals,16,0,Bhuvneshwar Williamson,normal
+97,2017,2017-05-04,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",Kolkata,Punjab Kings,field,Kolkata Knight Riders,73,0,Hardik Warner,normal
+98,2017,2017-05-05,Chennai Super Kings,Mumbai Indians,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Chennai Super Kings,0,1,Hardik Chahar,normal
+99,2017,2017-05-06,Royal Challengers Bangalore,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",Jaipur,Mumbai Indians,bat,Royal Challengers Bangalore,0,1,KL Rahul,normal
+100,2017,2017-05-07,Mumbai Indians,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Mumbai Indians,0,2,Marnus Ashwin,normal
+101,2017,2017-05-08,Royal Challengers Bangalore,Chennai Super Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Chennai Super Kings,field,Royal Challengers Bangalore,36,0,KL Rahul,normal
+102,2017,2017-05-09,Chennai Super Kings,Sunrisers Hyderabad,"Ekana Cricket Stadium, Lucknow",Lucknow,Sunrisers Hyderabad,field,Chennai Super Kings,0,10,Ravichandran Shami,normal
+103,2017,2017-05-10,Chennai Super Kings,Kolkata Knight Riders,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Kolkata Knight Riders,0,1,Ishan Rahane,normal
+104,2017,2017-05-11,Royal Challengers Bangalore,Punjab Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,24,0,KL Maxwell,normal
+105,2017,2017-05-12,Kolkata Knight Riders,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai,Royal Challengers Bangalore,field,Royal Challengers Bangalore,23,0,Jasprit Cummins,normal
+106,2017,2017-05-13,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,6,0,Virat Smith,normal
+107,2017,2017-05-14,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,field,Mumbai Indians,0,10,Trent Khan,normal
+108,2017,2017-05-15,Royal Challengers Bangalore,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",Jaipur,Sunrisers Hyderabad,field,Royal Challengers Bangalore,2,0,Ishan Gill,normal
+109,2017,2017-05-16,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Delhi,Chennai Super Kings,bat,Delhi Capitals,0,4,Aiden Kohli,normal
+110,2017,2017-05-17,Punjab Kings,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Punjab Kings,0,10,David Jadeja,normal
+111,2017,2017-05-18,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Delhi Capitals,field,Rajasthan Royals,0,7,Prithvi Kohli,normal
+112,2017,2017-05-19,Punjab Kings,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Rajasthan Royals,0,7,Ben Bumrah,normal
+113,2018,2018-03-25,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",Kolkata,Rajasthan Royals,field,Kolkata Knight Riders,69,0,Andre Starc,normal
+114,2018,2018-03-26,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,field,Sunrisers Hyderabad,0,4,Rashid Pujara,normal
+115,2018,2018-03-27,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",Mumbai,Punjab Kings,bat,Mumbai Indians,7,0,Trent Maxwell,normal
+116,2018,2018-03-28,Delhi Capitals,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Rajasthan Royals,bat,Rajasthan Royals,0,1,Axar Smith,normal
+117,2018,2018-03-29,Chennai Super Kings,Kolkata Knight Riders,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Kolkata Knight Riders,0,2,Nicholas Labuschagne,normal
+118,2018,2018-03-30,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",Jaipur,Mumbai Indians,field,Mumbai Indians,1,0,Kuldeep Rahane,normal
+119,2018,2018-03-31,Delhi Capitals,Punjab Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Delhi Capitals,bat,Punjab Kings,0,3,Andre Chahar,normal
+120,2018,2018-04-01,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Chennai Super Kings,field,Sunrisers Hyderabad,0,10,Ajinkya Rahane,normal
+121,2018,2018-04-02,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,1,Ben Pooran,normal
+122,2018,2018-04-03,Mumbai Indians,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Chennai Super Kings,field,Mumbai Indians,0,3,Liam Yadav,normal
+123,2018,2018-04-04,Punjab Kings,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Kolkata Knight Riders,102,0,Marnus Chahar,normal
+124,2018,2018-04-05,Rajasthan Royals,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Kolkata Knight Riders,37,0,Hardik Iyer,normal
+125,2018,2018-04-06,Kolkata Knight Riders,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mohali,Kolkata Knight Riders,bat,Mumbai Indians,120,0,Trent Maxwell,normal
+126,2018,2018-04-07,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mohali,Mumbai Indians,field,Mumbai Indians,0,1,Trent Sundar,normal
+127,2018,2018-04-08,Royal Challengers Bangalore,Kolkata Knight Riders,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,0,3,Rohit Maxwell,normal
+128,2018,2018-04-09,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,3,0,Jos Rahane,normal
+129,2018,2018-04-10,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders,0,10,Hardik Warner,normal
+130,2018,2018-04-11,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Chennai Super Kings,0,6,Hardik Russell,normal
+131,2018,2018-04-12,Royal Challengers Bangalore,Mumbai Indians,"M. A. Chidambaram Stadium, Chennai",Chennai,Mumbai Indians,bat,Mumbai Indians,0,1,Liam Yadav,normal
+132,2018,2018-04-13,Royal Challengers Bangalore,Sunrisers Hyderabad,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,61,0,MS Smith,normal
+133,2018,2018-04-14,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Delhi Capitals,11,0,Prithvi Yadav,normal
+134,2018,2018-04-15,Kolkata Knight Riders,Punjab Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Punjab Kings,field,Kolkata Knight Riders,6,0,Sanju Pooran,normal
+135,2018,2018-04-16,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Mumbai Indians,4,0,Mohammed Labuschagne,normal
+136,2018,2018-04-17,Punjab Kings,Delhi Capitals,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Punjab Kings,0,2,Cheteshwar Ashwin,normal
+137,2018,2018-04-18,Rajasthan Royals,Royal Challengers Bangalore,"Arun Jaitley Stadium, Delhi",Delhi,Rajasthan Royals,field,Rajasthan Royals,0,2,Jason Labuschagne,normal
+138,2018,2018-04-19,Punjab Kings,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",Mohali,Sunrisers Hyderabad,field,Punjab Kings,0,1,Hardik Dhoni,normal
+139,2018,2018-04-20,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Rajasthan Royals,76,0,Marnus Gill,normal
+140,2018,2018-04-21,Kolkata Knight Riders,Delhi Capitals,"M. A. Chidambaram Stadium, Chennai",Chennai,Kolkata Knight Riders,field,Delhi Capitals,28,0,Marcus Thakur,normal
+141,2018,2018-04-22,Punjab Kings,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Mohali,Rajasthan Royals,field,Punjab Kings,0,2,Ravindra Stoinis,normal
+142,2018,2018-04-23,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,3,0,Alex Chahal,normal
+143,2018,2018-04-24,Rajasthan Royals,Punjab Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Punjab Kings,bat,Rajasthan Royals,0,1,Ben Bumrah,normal
+144,2018,2018-04-25,Chennai Super Kings,Sunrisers Hyderabad,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Chennai Super Kings,12,0,Ravichandran Kishan,normal
+145,2018,2018-04-26,Chennai Super Kings,Mumbai Indians,"M. A. Chidambaram Stadium, Chennai",Chennai,Mumbai Indians,field,Chennai Super Kings,28,0,Hardik Chahar,normal
+146,2018,2018-04-27,Royal Challengers Bangalore,Delhi Capitals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Delhi Capitals,bat,Delhi Capitals,0,2,Marcus Thakur,normal
+147,2018,2018-04-28,Mumbai Indians,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,26,0,Rishabh Jadeja,normal
+148,2018,2018-04-29,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Mumbai Indians,bat,Mumbai Indians,3,0,Kane Thakur,normal
+149,2018,2018-04-30,Royal Challengers Bangalore,Chennai Super Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Chennai Super Kings,field,Chennai Super Kings,1,0,Marnus Rahane,normal
+150,2018,2018-05-01,Chennai Super Kings,Punjab Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Chennai Super Kings,58,0,Sam Sharma,normal
+151,2018,2018-05-02,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Mumbai Indians,0,3,Jos Curran,normal
+152,2018,2018-05-03,Chennai Super Kings,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Delhi Capitals,field,Chennai Super Kings,0,7,Pat Kumar,normal
+153,2018,2018-05-04,Kolkata Knight Riders,Royal Challengers Bangalore,"Eden Gardens, Kolkata",Kolkata,Royal Challengers Bangalore,field,Kolkata Knight Riders,18,0,Ben Starc,normal
+154,2018,2018-05-05,Rajasthan Royals,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Chennai Super Kings,26,0,Yuzvendra Rahul,normal
+155,2018,2018-05-06,Mumbai Indians,Kolkata Knight Riders,"Ekana Cricket Stadium, Lucknow",Lucknow,Mumbai Indians,field,Kolkata Knight Riders,0,2,Pat Iyer,normal
+156,2018,2018-05-07,Delhi Capitals,Royal Challengers Bangalore,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,bat,Royal Challengers Bangalore,0,7,Sanju Behrendorff,normal
+157,2018,2018-05-08,Chennai Super Kings,Royal Challengers Bangalore,"M. A. Chidambaram Stadium, Chennai",Chennai,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,0,2,Quinton Shami,normal
+158,2018,2018-05-09,Chennai Super Kings,Rajasthan Royals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Chennai Super Kings,field,Chennai Super Kings,4,0,Pat Kumar,normal
+159,2018,2018-05-10,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",Jaipur,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,0,4,Tim Russell,normal
+160,2018,2018-05-11,Royal Challengers Bangalore,Rajasthan Royals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,0,4,Rohit Maxwell,normal
+161,2018,2018-05-12,Punjab Kings,Chennai Super Kings,"Eden Gardens, Kolkata",Kolkata,Punjab Kings,bat,Punjab Kings,24,0,Marnus Khan,normal
+162,2018,2018-05-13,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Mumbai Indians,6,0,Shardul Khan,normal
+163,2018,2018-05-14,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",Delhi,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,0,10,Alex Chahal,normal
+164,2018,2018-05-15,Sunrisers Hyderabad,Royal Challengers Bangalore,"Eden Gardens, Kolkata",Kolkata,Royal Challengers Bangalore,field,Sunrisers Hyderabad,12,0,Jason Shaw,normal
+165,2018,2018-05-16,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",Delhi,Kolkata Knight Riders,bat,Delhi Capitals,0,6,Steve Rahane,normal
+166,2018,2018-05-17,Royal Challengers Bangalore,Punjab Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,bat,Punjab Kings,0,1,Jos Iyer,normal
+167,2018,2018-05-18,Punjab Kings,Royal Challengers Bangalore,"Ekana Cricket Stadium, Lucknow",Lucknow,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,0,9,Shardul Livingstone,normal
+168,2018,2018-05-19,Kolkata Knight Riders,Chennai Super Kings,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,bat,Chennai Super Kings,0,4,Andre Lynn,normal
+169,2019,2019-03-25,Kolkata Knight Riders,Mumbai Indians,"Ekana Cricket Stadium, Lucknow",Lucknow,Mumbai Indians,field,Kolkata Knight Riders,13,0,Mitchell Starc,normal
+170,2019,2019-03-26,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,field,Delhi Capitals,0,2,Kane Rabada,normal
+171,2019,2019-03-27,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mohali,Mumbai Indians,field,Punjab Kings,0,1,Nicholas Rabada,normal
+172,2019,2019-03-28,Punjab Kings,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Mohali,Royal Challengers Bangalore,field,Royal Challengers Bangalore,70,0,Mohammed Rahane,normal
+173,2019,2019-03-29,Kolkata Knight Riders,Chennai Super Kings,"Eden Gardens, Kolkata",Kolkata,Chennai Super Kings,bat,Kolkata Knight Riders,0,1,Ravindra Bumrah,normal
+174,2019,2019-03-30,Punjab Kings,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",Mohali,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,10,0,Mitchell Markram,normal
+175,2019,2019-03-31,Delhi Capitals,Chennai Super Kings,"Wankhede Stadium, Mumbai",Mumbai,Chennai Super Kings,bat,Chennai Super Kings,0,2,Prithvi Chahal,normal
+176,2019,2019-04-01,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,0,2,Alex Samson,normal
+177,2019,2019-04-02,Royal Challengers Bangalore,Punjab Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Punjab Kings,0,5,Jos Green,normal
+178,2019,2019-04-03,Chennai Super Kings,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai,Royal Challengers Bangalore,bat,Chennai Super Kings,24,0,Hardik Russell,normal
+179,2019,2019-04-04,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",Mumbai,Chennai Super Kings,field,Chennai Super Kings,3,0,Prithvi Chahal,normal
+180,2019,2019-04-05,Royal Challengers Bangalore,Rajasthan Royals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Rajasthan Royals,field,Rajasthan Royals,0,8,Marnus Gill,normal
+181,2019,2019-04-06,Sunrisers Hyderabad,Delhi Capitals,"M. A. Chidambaram Stadium, Chennai",Chennai,Delhi Capitals,field,Sunrisers Hyderabad,25,0,Ben Rahul,normal
+182,2019,2019-04-07,Chennai Super Kings,Kolkata Knight Riders,"M. A. Chidambaram Stadium, Chennai",Chennai,Kolkata Knight Riders,bat,Kolkata Knight Riders,14,0,Marnus du Plessis,normal
+183,2019,2019-04-08,Royal Challengers Bangalore,Chennai Super Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,17,0,KL Maxwell,normal
+184,2019,2019-04-09,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Rajasthan Royals,0,5,Sam Thakur,normal
+185,2019,2019-04-10,Chennai Super Kings,Punjab Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Punjab Kings,bat,Chennai Super Kings,0,6,Ravichandran Shami,normal
+186,2019,2019-04-11,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,39,0,Ravindra Bumrah,normal
+187,2019,2019-04-12,Chennai Super Kings,Delhi Capitals,"M. A. Chidambaram Stadium, Chennai",Chennai,Delhi Capitals,field,Delhi Capitals,68,0,Mohammed Williamson,normal
+188,2019,2019-04-13,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,38,0,Pat Chahal,normal
+189,2019,2019-04-14,Punjab Kings,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Mohali,Rajasthan Royals,bat,Punjab Kings,14,0,Kane Livingstone,normal
+190,2019,2019-04-15,Mumbai Indians,Punjab Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Mumbai Indians,bat,Punjab Kings,16,0,Cheteshwar Ashwin,normal
+191,2019,2019-04-16,Punjab Kings,Delhi Capitals,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,bat,Delhi Capitals,46,0,Tim Green,normal
+192,2019,2019-04-17,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,0,1,Alex Sundar,normal
+193,2019,2019-04-18,Delhi Capitals,Royal Challengers Bangalore,"Eden Gardens, Kolkata",Kolkata,Royal Challengers Bangalore,bat,Delhi Capitals,12,0,Yuzvendra Samson,normal
+194,2019,2019-04-19,Rajasthan Royals,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Rajasthan Royals,0,3,Jos Rahane,normal
+195,2019,2019-04-20,Chennai Super Kings,Sunrisers Hyderabad,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Chennai Super Kings,0,1,Andre Lynn,normal
+196,2019,2019-04-21,Delhi Capitals,Kolkata Knight Riders,"Ekana Cricket Stadium, Lucknow",Lucknow,Delhi Capitals,bat,Kolkata Knight Riders,0,9,Quinton Bairstow,normal
+197,2019,2019-04-22,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,bat,Kolkata Knight Riders,31,0,Bhuvneshwar Kishan,normal
+198,2019,2019-04-23,Rajasthan Royals,Royal Challengers Bangalore,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Rajasthan Royals,5,0,Suryakumar Green,normal
+199,2019,2019-04-24,Rajasthan Royals,Punjab Kings,"Ekana Cricket Stadium, Lucknow",Lucknow,Rajasthan Royals,bat,Rajasthan Royals,0,2,Kane Shaw,normal
+200,2019,2019-04-25,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Mumbai Indians,77,0,Trent Sundar,normal
+201,2019,2019-04-26,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,0,1,Jason Shaw,normal
+202,2019,2019-04-27,Punjab Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai,Punjab Kings,field,Kolkata Knight Riders,14,0,Bhuvneshwar Kishan,normal
+203,2019,2019-04-28,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Rajasthan Royals,5,0,Jason Labuschagne,normal
+204,2019,2019-04-29,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Kolkata Knight Riders,0,2,Sanju Pooran,normal
+205,2019,2019-04-30,Royal Challengers Bangalore,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,Mumbai Indians,bat,Royal Challengers Bangalore,17,0,Ishan Gill,normal
+206,2019,2019-05-01,Royal Challengers Bangalore,Kolkata Knight Riders,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,0,4,KL Rahul,normal
+207,2019,2019-05-02,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Mumbai Indians,0,4,Mohammed Labuschagne,normal
+208,2019,2019-05-03,Delhi Capitals,Sunrisers Hyderabad,"Eden Gardens, Kolkata",Kolkata,Sunrisers Hyderabad,bat,Delhi Capitals,0,2,Yuzvendra Samson,normal
+209,2019,2019-05-04,Royal Challengers Bangalore,Sunrisers Hyderabad,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,4,Ben Rahul,normal
+210,2019,2019-05-05,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Mumbai Indians,0,10,KL Ashwin,normal
+211,2019,2019-05-06,Kolkata Knight Riders,Sunrisers Hyderabad,"M. A. Chidambaram Stadium, Chennai",Chennai,Kolkata Knight Riders,field,Sunrisers Hyderabad,0,1,Jason Shaw,tie
+212,2019,2019-05-07,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,3,Mitchell Markram,normal
+213,2019,2019-05-08,Royal Challengers Bangalore,Delhi Capitals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Delhi Capitals,field,Delhi Capitals,0,7,Sanju Smith,normal
+214,2019,2019-05-09,Punjab Kings,Chennai Super Kings,"Eden Gardens, Kolkata",Kolkata,Chennai Super Kings,field,Punjab Kings,0,2,Tim Samson,normal
+215,2019,2019-05-10,Rajasthan Royals,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,bat,Rajasthan Royals,8,0,Virat Ashwin,normal
+216,2019,2019-05-11,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,field,Kolkata Knight Riders,1,0,Suryakumar Bumrah,normal
+217,2019,2019-05-12,Kolkata Knight Riders,Royal Challengers Bangalore,"Ekana Cricket Stadium, Lucknow",Lucknow,Kolkata Knight Riders,bat,Kolkata Knight Riders,77,0,Pat Labuschagne,normal
+218,2019,2019-05-13,Chennai Super Kings,Rajasthan Royals,"M. A. Chidambaram Stadium, Chennai",Chennai,Rajasthan Royals,bat,Rajasthan Royals,0,10,Axar Williamson,normal
+219,2019,2019-05-14,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",Jaipur,Sunrisers Hyderabad,field,Sunrisers Hyderabad,20,0,Faf Samson,normal
+220,2019,2019-05-15,Delhi Capitals,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Punjab Kings,bat,Punjab Kings,16,0,Ravindra Stoinis,normal
+221,2019,2019-05-16,Mumbai Indians,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai,Royal Challengers Bangalore,field,Mumbai Indians,5,0,Sam Patel,normal
+222,2019,2019-05-17,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai,Rajasthan Royals,bat,Rajasthan Royals,0,2,Sam Williamson,normal
+223,2019,2019-05-18,Chennai Super Kings,Mumbai Indians,"Ekana Cricket Stadium, Lucknow",Lucknow,Mumbai Indians,field,Chennai Super Kings,45,0,Jonny Behrendorff,normal
+224,2019,2019-05-19,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",Delhi,Rajasthan Royals,field,Delhi Capitals,14,0,Yuzvendra Samson,normal
+225,2020,2020-03-25,Chennai Super Kings,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,5,Cheteshwar Pooran,tie
+226,2020,2020-03-26,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,field,Kolkata Knight Riders,0,2,Marnus Chahar,normal
+227,2020,2020-03-27,Chennai Super Kings,Delhi Capitals,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Delhi Capitals,0,1,Tim Shami,normal
+228,2020,2020-03-28,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,0,9,Ishan Shaw,normal
+229,2020,2020-03-29,Rajasthan Royals,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Rajasthan Royals,57,0,Axar Rabada,normal
+230,2020,2020-03-30,Chennai Super Kings,Rajasthan Royals,"M. A. Chidambaram Stadium, Chennai",Chennai,Rajasthan Royals,field,Rajasthan Royals,0,8,Virat Ashwin,normal
+231,2020,2020-03-31,Punjab Kings,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Punjab Kings,bat,Punjab Kings,5,0,Prithvi Yadav,normal
+232,2020,2020-04-01,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Mumbai Indians,0,1,Ravindra Sundar,normal
+233,2020,2020-04-02,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",Delhi,Kolkata Knight Riders,field,Delhi Capitals,26,0,Tim Shami,normal
+234,2020,2020-04-03,Delhi Capitals,Punjab Kings,"Wankhede Stadium, Mumbai",Mumbai,Delhi Capitals,field,Punjab Kings,22,0,Suryakumar Bairstow,normal
+235,2020,2020-04-04,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,50,0,Alex Behrendorff,normal
+236,2020,2020-04-05,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,Mumbai Indians,bat,Delhi Capitals,2,0,Prithvi Yadav,normal
+237,2020,2020-04-06,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,0,2,MS Smith,normal
+238,2020,2020-04-07,Chennai Super Kings,Sunrisers Hyderabad,"M. A. Chidambaram Stadium, Chennai",Chennai,Sunrisers Hyderabad,field,Sunrisers Hyderabad,25,0,Jos Khan,normal
+239,2020,2020-04-08,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",Mumbai,Punjab Kings,bat,Punjab Kings,0,2,Ravichandran Iyer,normal
+240,2020,2020-04-09,Royal Challengers Bangalore,Delhi Capitals,"Punjab Cricket Association Stadium, Mohali",Mohali,Delhi Capitals,bat,Royal Challengers Bangalore,1,0,Cheteshwar Pooran,normal
+241,2020,2020-04-10,Punjab Kings,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Mohali,Kolkata Knight Riders,bat,Kolkata Knight Riders,0,6,Suryakumar Bumrah,normal
+242,2020,2020-04-11,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",Delhi,Rajasthan Royals,field,Rajasthan Royals,0,8,Alex Samson,normal
+243,2020,2020-04-12,Chennai Super Kings,Punjab Kings,"Eden Gardens, Kolkata",Kolkata,Punjab Kings,field,Punjab Kings,0,10,Sanju Cummins,normal
+244,2020,2020-04-13,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",Kolkata,Punjab Kings,field,Punjab Kings,14,0,Ravindra Stoinis,normal
+245,2020,2020-04-14,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,48,0,Mitchell Thakur,normal
+246,2020,2020-04-15,Rajasthan Royals,Delhi Capitals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Rajasthan Royals,field,Rajasthan Royals,18,0,Deepak Paine,normal
+247,2020,2020-04-16,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,0,1,KL Ashwin,normal
+248,2020,2020-04-17,Punjab Kings,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Mohali,Chennai Super Kings,field,Chennai Super Kings,0,7,Tim Sharma,normal
+249,2020,2020-04-18,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Mumbai Indians,field,Mumbai Indians,0,2,Trent Maxwell,normal
+250,2020,2020-04-19,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Rajasthan Royals,0,6,Suryakumar Green,normal
+251,2020,2020-04-20,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Mumbai Indians,9,0,Ravindra Smith,normal
+252,2020,2020-04-21,Kolkata Knight Riders,Royal Challengers Bangalore,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,bat,Kolkata Knight Riders,5,0,Mitchell Shaw,normal
+253,2020,2020-04-22,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai,Kolkata Knight Riders,field,Mumbai Indians,0,5,Ravindra Sundar,normal
+254,2020,2020-04-23,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,0,1,Axar Pant,normal
+255,2020,2020-04-24,Royal Challengers Bangalore,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai,Royal Challengers Bangalore,field,Rajasthan Royals,0,4,Glenn Pooran,normal
+256,2020,2020-04-25,Royal Challengers Bangalore,Punjab Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Punjab Kings,6,0,Nicholas Rabada,normal
+257,2020,2020-04-26,Kolkata Knight Riders,Chennai Super Kings,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,field,Chennai Super Kings,81,0,Kagiso Behrendorff,normal
+258,2020,2020-04-27,Mumbai Indians,Royal Challengers Bangalore,"Sawai Mansingh Stadium, Jaipur",Jaipur,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,1,Virat Pandya,normal
+259,2020,2020-04-28,Rajasthan Royals,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Chennai Super Kings,bat,Chennai Super Kings,89,0,Mitchell Paine,normal
+260,2020,2020-04-29,Rajasthan Royals,Royal Challengers Bangalore,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,bat,Rajasthan Royals,0,3,Ajinkya Williamson,normal
+261,2020,2020-04-30,Kolkata Knight Riders,Mumbai Indians,"Ekana Cricket Stadium, Lucknow",Lucknow,Mumbai Indians,field,Kolkata Knight Riders,6,0,Ben Khan,normal
+262,2020,2020-05-01,Royal Challengers Bangalore,Chennai Super Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,6,Sanju Behrendorff,normal
+263,2020,2020-05-02,Delhi Capitals,Royal Challengers Bangalore,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,bat,Royal Challengers Bangalore,0,8,Shardul Maxwell,normal
+264,2020,2020-05-03,Chennai Super Kings,Mumbai Indians,"Eden Gardens, Kolkata",Kolkata,Chennai Super Kings,field,Mumbai Indians,7,0,Liam Jadeja,normal
+265,2020,2020-05-04,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Punjab Kings,bat,Punjab Kings,8,0,Jos Iyer,normal
+266,2020,2020-05-05,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Mumbai Indians,13,0,Chris Patel,normal
+267,2020,2020-05-06,Chennai Super Kings,Kolkata Knight Riders,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Chennai Super Kings,0,5,Kuldeep Patel,normal
+268,2020,2020-05-07,Punjab Kings,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Mohali,Rajasthan Royals,field,Punjab Kings,1,0,Sanju Cummins,normal
+269,2020,2020-05-08,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,0,8,Axar Pant,normal
+270,2020,2020-05-09,Royal Challengers Bangalore,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",Delhi,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,23,0,Alex Chahar,normal
+271,2020,2020-05-10,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mohali,Mumbai Indians,field,Punjab Kings,0,2,Kane Livingstone,normal
+272,2020,2020-05-11,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,bat,Sunrisers Hyderabad,22,0,Jos Khan,normal
+273,2020,2020-05-12,Royal Challengers Bangalore,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Mumbai Indians,field,Royal Challengers Bangalore,14,0,Andre Khan,normal
+274,2020,2020-05-13,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Delhi Capitals,0,6,Axar Rahane,normal
+275,2020,2020-05-14,Punjab Kings,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Sunrisers Hyderabad,0,2,Virat Smith,normal
+276,2020,2020-05-15,Royal Challengers Bangalore,Kolkata Knight Riders,"M. A. Chidambaram Stadium, Chennai",Chennai,Kolkata Knight Riders,bat,Kolkata Knight Riders,0,4,Suryakumar Bumrah,normal
+277,2020,2020-05-16,Punjab Kings,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Mohali,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1,0,KL Maxwell,normal
+278,2020,2020-05-17,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Rajasthan Royals,0,5,Ben Bumrah,normal
+279,2020,2020-05-18,Kolkata Knight Riders,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,bat,Kolkata Knight Riders,0,1,Axar Chahar,normal
+280,2020,2020-05-19,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,bat,Delhi Capitals,41,0,Bhuvneshwar Williamson,normal
+281,2021,2021-03-25,Punjab Kings,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Mumbai,Punjab Kings,bat,Punjab Kings,18,0,David Thakur,normal
+282,2021,2021-03-26,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,22,0,Hardik Warner,normal
+283,2021,2021-03-27,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,bat,Sunrisers Hyderabad,64,0,Marnus Buttler,normal
+284,2021,2021-03-28,Chennai Super Kings,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Mohali,Chennai Super Kings,bat,Rajasthan Royals,53,0,Kane Shaw,normal
+285,2021,2021-03-29,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Mumbai Indians,0,7,Glenn Bumrah,normal
+286,2021,2021-03-30,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Mumbai Indians,0,8,Trent Sundar,normal
+287,2021,2021-03-31,Royal Challengers Bangalore,Mumbai Indians,"Ekana Cricket Stadium, Lucknow",Lucknow,Royal Challengers Bangalore,field,Mumbai Indians,15,0,Marnus Ashwin,normal
+288,2021,2021-04-01,Royal Challengers Bangalore,Rajasthan Royals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,25,0,Mohammed Williamson,normal
+289,2021,2021-04-02,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Punjab Kings,39,0,Tim Lynn,normal
+290,2021,2021-04-03,Punjab Kings,Chennai Super Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Punjab Kings,field,Punjab Kings,5,0,Marnus Khan,normal
+291,2021,2021-04-04,Punjab Kings,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Mohali,Kolkata Knight Riders,field,Kolkata Knight Riders,65,0,Sanju Pooran,normal
+292,2021,2021-04-05,Delhi Capitals,Royal Challengers Bangalore,"Arun Jaitley Stadium, Delhi",Delhi,Royal Challengers Bangalore,bat,Delhi Capitals,0,6,Marnus Bumrah,normal
+293,2021,2021-04-06,Sunrisers Hyderabad,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Chennai Super Kings,field,Sunrisers Hyderabad,9,0,Rashid Pujara,normal
+294,2021,2021-04-07,Kolkata Knight Riders,Chennai Super Kings,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,field,Chennai Super Kings,0,2,Mitchell Lynn,tie
+295,2021,2021-04-08,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,8,0,Sam Thakur,normal
+296,2021,2021-04-09,Chennai Super Kings,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Royal Challengers Bangalore,field,Chennai Super Kings,0,1,Hardik Chahar,normal
+297,2021,2021-04-10,Punjab Kings,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,bat,Punjab Kings,22,0,Suryakumar Bairstow,normal
+298,2021,2021-04-11,Punjab Kings,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Mohali,Royal Challengers Bangalore,bat,Punjab Kings,0,10,David Jadeja,normal
+299,2021,2021-04-12,Delhi Capitals,Rajasthan Royals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Delhi Capitals,field,Delhi Capitals,0,9,Yuzvendra Samson,normal
+300,2021,2021-04-13,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai,Delhi Capitals,field,Delhi Capitals,11,0,Bhuvneshwar Williamson,normal
+301,2021,2021-04-14,Chennai Super Kings,Sunrisers Hyderabad,"M. A. Chidambaram Stadium, Chennai",Chennai,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,1,Jasprit Sundar,normal
+302,2021,2021-04-15,Sunrisers Hyderabad,Mumbai Indians,"Ekana Cricket Stadium, Lucknow",Lucknow,Mumbai Indians,field,Sunrisers Hyderabad,41,0,Mitchell Thakur,normal
+303,2021,2021-04-16,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Chennai Super Kings,5,0,Pat Kumar,normal
+304,2021,2021-04-17,Royal Challengers Bangalore,Sunrisers Hyderabad,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,17,0,Axar Pant,normal
+305,2021,2021-04-18,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,2,0,Tim Russell,normal
+306,2021,2021-04-19,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",Kolkata,Sunrisers Hyderabad,field,Kolkata Knight Riders,80,0,Washington Stokes,normal
+307,2021,2021-04-20,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,bat,Delhi Capitals,1,0,Ishan Shaw,normal
+308,2021,2021-04-21,Rajasthan Royals,Mumbai Indians,"Eden Gardens, Kolkata",Kolkata,Mumbai Indians,bat,Rajasthan Royals,0,2,Marnus Gill,normal
+309,2021,2021-04-22,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",Delhi,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,10,Virat Smith,normal
+310,2021,2021-04-23,Rajasthan Royals,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",Jaipur,Kolkata Knight Riders,field,Rajasthan Royals,19,0,Axar Rabada,normal
+311,2021,2021-04-24,Kolkata Knight Riders,Royal Challengers Bangalore,"Arun Jaitley Stadium, Delhi",Delhi,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,36,0,KL Maxwell,normal
+312,2021,2021-04-25,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,9,0,Alex Sundar,tie
+313,2021,2021-04-26,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai,Rajasthan Royals,field,Rajasthan Royals,21,0,Alex Samson,normal
+314,2021,2021-04-27,Mumbai Indians,Royal Challengers Bangalore,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,2,Jasprit Cummins,normal
+315,2021,2021-04-28,Royal Challengers Bangalore,Punjab Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Punjab Kings,bat,Punjab Kings,0,10,Suryakumar Bairstow,normal
+316,2021,2021-04-29,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Mumbai,Sunrisers Hyderabad,field,Mumbai Indians,0,1,Kane Thakur,normal
+317,2021,2021-04-30,Chennai Super Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai,Chennai Super Kings,field,Kolkata Knight Riders,0,5,Hardik Warner,normal
+318,2021,2021-05-01,Royal Challengers Bangalore,Chennai Super Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Chennai Super Kings,bat,Chennai Super Kings,0,1,Aiden Russell,normal
+319,2021,2021-05-02,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,0,10,Steve Rahul,normal
+320,2021,2021-05-03,Punjab Kings,Delhi Capitals,"Ekana Cricket Stadium, Lucknow",Lucknow,Punjab Kings,bat,Punjab Kings,0,2,Trent de Kock,normal
+321,2021,2021-05-04,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,field,Rajasthan Royals,11,0,Ishan Ashwin,normal
+322,2021,2021-05-05,Rajasthan Royals,Royal Challengers Bangalore,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,bat,Royal Challengers Bangalore,0,10,Quinton Bumrah,normal
+323,2021,2021-05-06,Kolkata Knight Riders,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Kolkata Knight Riders,field,Kolkata Knight Riders,38,0,Marcus Kishan,normal
+324,2021,2021-05-07,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",Delhi,Punjab Kings,field,Delhi Capitals,8,0,Ajinkya Ashwin,normal
+325,2021,2021-05-08,Rajasthan Royals,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Chennai Super Kings,bat,Chennai Super Kings,0,10,Hardik Russell,normal
+326,2021,2021-05-09,Kolkata Knight Riders,Punjab Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Punjab Kings,bat,Punjab Kings,0,9,Kane Livingstone,normal
+327,2021,2021-05-10,Royal Challengers Bangalore,Delhi Capitals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Delhi Capitals,field,Delhi Capitals,0,2,Tim Green,normal
+328,2021,2021-05-11,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",Kolkata,Mumbai Indians,bat,Kolkata Knight Riders,28,0,Hardik Warner,normal
+329,2021,2021-05-12,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai,Chennai Super Kings,field,Chennai Super Kings,2,0,Prithvi Chahal,normal
+330,2021,2021-05-13,Chennai Super Kings,Delhi Capitals,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Delhi Capitals,0,6,Ajinkya Ashwin,normal
+331,2021,2021-05-14,Chennai Super Kings,Punjab Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Punjab Kings,field,Punjab Kings,47,0,David Curran,normal
+332,2021,2021-05-15,Delhi Capitals,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",Jaipur,Delhi Capitals,field,Kolkata Knight Riders,21,0,Ben Khan,normal
+333,2021,2021-05-16,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,bat,Mumbai Indians,20,0,KL Yadav,normal
+334,2021,2021-05-17,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,Mumbai Indians,bat,Delhi Capitals,1,0,Aiden Kohli,normal
+335,2021,2021-05-18,Royal Challengers Bangalore,Kolkata Knight Riders,"Eden Gardens, Kolkata",Kolkata,Royal Challengers Bangalore,field,Royal Challengers Bangalore,24,0,Virat Starc,normal
+336,2021,2021-05-19,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai,Kolkata Knight Riders,bat,Kolkata Knight Riders,0,1,Quinton Bairstow,normal
+337,2022,2022-03-25,Rajasthan Royals,Lucknow Super Giants,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Lucknow Super Giants,field,Rajasthan Royals,38,0,Axar Williamson,normal
+338,2022,2022-03-26,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Punjab Kings,field,Punjab Kings,13,0,Ravichandran Iyer,normal
+339,2022,2022-03-27,Punjab Kings,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",Mohali,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,0,2,MS Smith,normal
+340,2022,2022-03-28,Chennai Super Kings,Sunrisers Hyderabad,"M. A. Chidambaram Stadium, Chennai",Chennai,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,28,0,Jos Khan,normal
+341,2022,2022-03-29,Delhi Capitals,Royal Challengers Bangalore,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Royal Challengers Bangalore,1,0,Shardul Maxwell,normal
+342,2022,2022-03-30,Punjab Kings,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Mohali,Rajasthan Royals,field,Rajasthan Royals,0,1,Jos Rahane,normal
+343,2022,2022-03-31,Chennai Super Kings,Royal Challengers Bangalore,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Chennai Super Kings,8,0,Andre Lynn,normal
+344,2022,2022-04-01,Lucknow Super Giants,Chennai Super Kings,"Ekana Cricket Stadium, Lucknow",Lucknow,Lucknow Super Giants,field,Lucknow Super Giants,14,0,Marcus Ashwin,normal
+345,2022,2022-04-02,Punjab Kings,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Mohali,Royal Challengers Bangalore,field,Punjab Kings,8,0,Cheteshwar Ashwin,normal
+346,2022,2022-04-03,Sunrisers Hyderabad,Punjab Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Punjab Kings,field,Punjab Kings,15,0,Sanju Rabada,normal
+347,2022,2022-04-04,Royal Challengers Bangalore,Mumbai Indians,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Mumbai Indians,field,Mumbai Indians,24,0,KL Ashwin,normal
+348,2022,2022-04-05,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Gujarat Titans,bat,Kolkata Knight Riders,29,0,Marnus du Plessis,normal
+349,2022,2022-04-06,Delhi Capitals,Kolkata Knight Riders,"M. A. Chidambaram Stadium, Chennai",Chennai,Delhi Capitals,bat,Kolkata Knight Riders,117,0,Bhuvneshwar Kishan,normal
+350,2022,2022-04-07,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Lucknow Super Giants,field,Sunrisers Hyderabad,0,7,Ajinkya Rahane,normal
+351,2022,2022-04-08,Punjab Kings,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Punjab Kings,25,0,Ravindra Stoinis,normal
+352,2022,2022-04-09,Rajasthan Royals,Mumbai Indians,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Rajasthan Royals,field,Mumbai Indians,14,0,Liam Yadav,normal
+353,2022,2022-04-10,Chennai Super Kings,Lucknow Super Giants,"M. A. Chidambaram Stadium, Chennai",Chennai,Lucknow Super Giants,bat,Lucknow Super Giants,0,1,Jason Curran,normal
+354,2022,2022-04-11,Gujarat Titans,Lucknow Super Giants,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lucknow Super Giants,bat,Lucknow Super Giants,0,4,Kane du Plessis,normal
+355,2022,2022-04-12,Lucknow Super Giants,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lucknow Super Giants,field,Lucknow Super Giants,0,7,Suryakumar Chahal,normal
+356,2022,2022-04-13,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,bat,Delhi Capitals,0,1,Sam Lynn,normal
+357,2022,2022-04-14,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,bat,Lucknow Super Giants,0,1,Jason Pujara,normal
+358,2022,2022-04-15,Gujarat Titans,Delhi Capitals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Delhi Capitals,bat,Delhi Capitals,0,4,Sam Iyer,normal
+359,2022,2022-04-16,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,0,6,Ajinkya Williamson,normal
+360,2022,2022-04-17,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Mumbai,Sunrisers Hyderabad,field,Mumbai Indians,23,0,Kuldeep Rahane,tie
+361,2022,2022-04-18,Delhi Capitals,Mumbai Indians,"Ekana Cricket Stadium, Lucknow",Lucknow,Delhi Capitals,bat,Mumbai Indians,51,0,Kuldeep Rahane,normal
+362,2022,2022-04-19,Royal Challengers Bangalore,Lucknow Super Giants,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Lucknow Super Giants,57,0,Marcus Ashwin,normal
+363,2022,2022-04-20,Chennai Super Kings,Mumbai Indians,"M. A. Chidambaram Stadium, Chennai",Chennai,Mumbai Indians,field,Chennai Super Kings,5,0,Mitchell Lynn,normal
+364,2022,2022-04-21,Chennai Super Kings,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Chennai Super Kings,field,Punjab Kings,35,0,Nicholas Rabada,normal
+365,2022,2022-04-22,Royal Challengers Bangalore,Delhi Capitals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Delhi Capitals,field,Delhi Capitals,22,0,Ajinkya Ashwin,tie
+366,2022,2022-04-23,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,23,0,Suryakumar Green,normal
+367,2022,2022-04-24,Kolkata Knight Riders,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Kolkata Knight Riders,bat,Chennai Super Kings,0,1,Pat Chahal,normal
+368,2022,2022-04-25,Sunrisers Hyderabad,Gujarat Titans,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Gujarat Titans,field,Sunrisers Hyderabad,10,0,Virat Smith,normal
+369,2022,2022-04-26,Royal Challengers Bangalore,Gujarat Titans,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Gujarat Titans,bat,Royal Challengers Bangalore,0,1,Rishabh Jadeja,normal
+370,2022,2022-04-27,Delhi Capitals,Gujarat Titans,"Wankhede Stadium, Mumbai",Mumbai,Gujarat Titans,bat,Gujarat Titans,28,0,Cheteshwar Buttler,normal
+371,2022,2022-04-28,Royal Challengers Bangalore,Sunrisers Hyderabad,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,46,0,Jasprit Cummins,normal
+372,2022,2022-04-29,Chennai Super Kings,Delhi Capitals,"M. A. Chidambaram Stadium, Chennai",Chennai,Delhi Capitals,field,Chennai Super Kings,3,0,Kuldeep Cummins,normal
+373,2022,2022-04-30,Delhi Capitals,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Mohali,Chennai Super Kings,bat,Delhi Capitals,22,0,Sanju Kumar,normal
+374,2022,2022-05-01,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Gujarat Titans,field,Gujarat Titans,0,6,Kane Chahar,normal
+375,2022,2022-05-02,Mumbai Indians,Gujarat Titans,"Wankhede Stadium, Mumbai",Mumbai,Gujarat Titans,field,Mumbai Indians,44,0,Chris Ashwin,normal
+376,2022,2022-05-03,Punjab Kings,Lucknow Super Giants,"Eden Gardens, Kolkata",Kolkata,Lucknow Super Giants,bat,Punjab Kings,0,4,Jos Iyer,normal
+377,2022,2022-05-04,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai,Delhi Capitals,bat,Mumbai Indians,27,0,Kane Thakur,normal
+378,2022,2022-05-05,Lucknow Super Giants,Delhi Capitals,"Ekana Cricket Stadium, Lucknow",Lucknow,Delhi Capitals,field,Lucknow Super Giants,1,0,Jason Pujara,normal
+379,2022,2022-05-06,Mumbai Indians,Royal Challengers Bangalore,"Eden Gardens, Kolkata",Kolkata,Mumbai Indians,field,Mumbai Indians,0,3,Ravichandran Cummins,normal
+380,2022,2022-05-07,Lucknow Super Giants,Sunrisers Hyderabad,"Ekana Cricket Stadium, Lucknow",Lucknow,Sunrisers Hyderabad,bat,Lucknow Super Giants,0,3,Kuldeep Rahane,normal
+381,2022,2022-05-08,Kolkata Knight Riders,Royal Challengers Bangalore,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,bat,Kolkata Knight Riders,58,0,Ishan Rahane,normal
+382,2022,2022-05-09,Rajasthan Royals,Chennai Super Kings,"Ekana Cricket Stadium, Lucknow",Lucknow,Chennai Super Kings,field,Rajasthan Royals,0,4,Ben Bumrah,normal
+383,2022,2022-05-10,Rajasthan Royals,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Kolkata Knight Riders,0,3,Pat Iyer,normal
+384,2022,2022-05-11,Lucknow Super Giants,Rajasthan Royals,"Ekana Cricket Stadium, Lucknow",Lucknow,Rajasthan Royals,field,Rajasthan Royals,68,0,Rashid Maxwell,normal
+385,2022,2022-05-12,Kolkata Knight Riders,Mumbai Indians,"Ekana Cricket Stadium, Lucknow",Lucknow,Kolkata Knight Riders,bat,Kolkata Knight Riders,1,0,Marnus Chahar,normal
+386,2022,2022-05-13,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",Mumbai,Chennai Super Kings,field,Chennai Super Kings,0,2,Jos Sundar,normal
+387,2022,2022-05-14,Chennai Super Kings,Gujarat Titans,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,bat,Gujarat Titans,0,3,Ravindra Rahane,normal
+388,2022,2022-05-15,Punjab Kings,Delhi Capitals,"Eden Gardens, Kolkata",Kolkata,Punjab Kings,bat,Punjab Kings,0,3,Ravichandran Iyer,normal
+389,2022,2022-05-16,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Delhi Capitals,field,Delhi Capitals,19,0,Mohammed Williamson,normal
+390,2022,2022-05-17,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Punjab Kings,3,0,Nicholas Rabada,normal
+391,2022,2022-05-18,Lucknow Super Giants,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,56,0,Mohammed Rahane,normal
+392,2022,2022-05-19,Chennai Super Kings,Rajasthan Royals,"M. A. Chidambaram Stadium, Chennai",Chennai,Rajasthan Royals,field,Rajasthan Royals,0,1,Axar Williamson,normal
+393,2022,2022-05-20,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,0,1,Pat Bumrah,normal
+394,2022,2022-05-21,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,17,0,Deepak Pooran,normal
+395,2022,2022-05-22,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,26,0,Mitchell Markram,normal
+396,2022,2022-05-23,Royal Challengers Bangalore,Chennai Super Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,17,0,Axar Shaw,normal
+397,2022,2022-05-24,Lucknow Super Giants,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,Lucknow Super Giants,field,Lucknow Super Giants,17,0,Nicholas Pooran,normal
+398,2022,2022-05-25,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",Kolkata,Rajasthan Royals,field,Kolkata Knight Riders,13,0,Sam Rahane,normal
+399,2022,2022-05-26,Lucknow Super Giants,Punjab Kings,"Ekana Cricket Stadium, Lucknow",Lucknow,Lucknow Super Giants,bat,Lucknow Super Giants,0,4,Trent Stokes,normal
+400,2022,2022-05-27,Delhi Capitals,Rajasthan Royals,"Ekana Cricket Stadium, Lucknow",Lucknow,Rajasthan Royals,bat,Rajasthan Royals,0,2,Ajinkya Williamson,normal
+401,2022,2022-05-28,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai,Kolkata Knight Riders,bat,Kolkata Knight Riders,3,0,Pat Labuschagne,normal
+402,2022,2022-05-29,Royal Challengers Bangalore,Kolkata Knight Riders,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,30,0,Sam Rahane,normal
+403,2022,2022-05-30,Kolkata Knight Riders,Punjab Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Kolkata Knight Riders,field,Kolkata Knight Riders,24,0,Mitchell Starc,normal
+404,2022,2022-05-31,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Mumbai Indians,0,2,Ravindra Sundar,normal
+405,2022,2022-06-01,Punjab Kings,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Chennai Super Kings,7,0,Ravichandran Kishan,normal
+406,2022,2022-06-02,Rajasthan Royals,Gujarat Titans,"Wankhede Stadium, Mumbai",Mumbai,Rajasthan Royals,field,Rajasthan Royals,28,0,Aiden Ashwin,normal
+407,2022,2022-06-03,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Mumbai Indians,12,0,Chris Patel,normal
+408,2022,2022-06-04,Lucknow Super Giants,Kolkata Knight Riders,"Ekana Cricket Stadium, Lucknow",Lucknow,Kolkata Knight Riders,bat,Kolkata Knight Riders,6,0,Mitchell Starc,normal
+409,2022,2022-06-05,Rajasthan Royals,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Rajasthan Royals,field,Rajasthan Royals,7,0,Marnus Gill,normal
+410,2022,2022-06-06,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,bat,Punjab Kings,6,0,Tim Samson,normal
+411,2022,2022-06-07,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,0,2,Faf Samson,normal
+412,2022,2022-06-08,Rajasthan Royals,Royal Challengers Bangalore,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,5,0,Sanju Behrendorff,tie
+413,2022,2022-06-09,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,10,Jasprit Sundar,normal
+414,2022,2022-06-10,Gujarat Titans,Royal Challengers Bangalore,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,25,0,KL Rahul,normal
+415,2022,2022-06-11,Kolkata Knight Riders,Gujarat Titans,"Ekana Cricket Stadium, Lucknow",Lucknow,Kolkata Knight Riders,field,Gujarat Titans,0,10,Bhuvneshwar Stokes,normal
+416,2022,2022-06-12,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Chennai Super Kings,bat,Gujarat Titans,76,0,Steve de Kock,normal
+417,2022,2022-06-13,Delhi Capitals,Lucknow Super Giants,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Delhi Capitals,8,0,Sam Lynn,normal
+418,2022,2022-06-14,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",Kolkata,Sunrisers Hyderabad,field,Sunrisers Hyderabad,8,0,Mitchell Markram,normal
+419,2022,2022-06-15,Royal Challengers Bangalore,Punjab Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Punjab Kings,0,1,Ravindra Stoinis,tie
+420,2022,2022-06-16,Royal Challengers Bangalore,Rajasthan Royals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,10,0,Steve Rahul,normal
+421,2022,2022-06-17,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Sunrisers Hyderabad,0,2,MS Kohli,normal
+422,2022,2022-06-18,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Mumbai Indians,field,Gujarat Titans,0,2,Sam Rabada,normal
+423,2022,2022-06-19,Punjab Kings,Gujarat Titans,"Punjab Cricket Association Stadium, Mohali",Mohali,Gujarat Titans,bat,Punjab Kings,14,0,David Curran,normal
+424,2022,2022-06-20,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Gujarat Titans,70,0,Sam Rabada,normal
+425,2022,2022-06-21,Chennai Super Kings,Kolkata Knight Riders,"M. A. Chidambaram Stadium, Chennai",Chennai,Kolkata Knight Riders,bat,Kolkata Knight Riders,0,1,Marnus Chahar,normal
+426,2022,2022-06-22,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Lucknow Super Giants,0,4,Tim Markram,normal
+427,2023,2023-03-25,Kolkata Knight Riders,Punjab Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Punjab Kings,field,Punjab Kings,0,4,Tim Samson,normal
+428,2023,2023-03-26,Punjab Kings,Delhi Capitals,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Delhi Capitals,0,8,Sam Iyer,normal
+429,2023,2023-03-27,Rajasthan Royals,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Chennai Super Kings,0,4,Ravichandran Kishan,normal
+430,2023,2023-03-28,Lucknow Super Giants,Rajasthan Royals,"Ekana Cricket Stadium, Lucknow",Lucknow,Rajasthan Royals,field,Lucknow Super Giants,0,1,Jason Pujara,normal
+431,2023,2023-03-29,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai,Kolkata Knight Riders,field,Mumbai Indians,12,0,Faf Iyer,normal
+432,2023,2023-03-30,Royal Challengers Bangalore,Mumbai Indians,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,1,Alex Behrendorff,normal
+433,2023,2023-03-31,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,0,4,Ben Pooran,normal
+434,2023,2023-04-01,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Rajasthan Royals,38,0,Jos Rahane,normal
+435,2023,2023-04-02,Delhi Capitals,Royal Challengers Bangalore,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,bat,Delhi Capitals,0,1,Virat Green,normal
+436,2023,2023-04-03,Punjab Kings,Kolkata Knight Riders,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Kolkata Knight Riders,bat,Punjab Kings,26,0,Jos Iyer,normal
+437,2023,2023-04-04,Chennai Super Kings,Kolkata Knight Riders,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,bat,Chennai Super Kings,0,5,Prithvi Chahal,normal
+438,2023,2023-04-05,Chennai Super Kings,Punjab Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Punjab Kings,bat,Punjab Kings,55,0,Trent de Kock,normal
+439,2023,2023-04-06,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Gujarat Titans,field,Gujarat Titans,0,6,Kane Chahar,normal
+440,2023,2023-04-07,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Chennai Super Kings,bat,Sunrisers Hyderabad,35,0,Alex Chahal,normal
+441,2023,2023-04-08,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",Kolkata,Rajasthan Royals,field,Kolkata Knight Riders,0,5,Marnus Chahar,normal
+442,2023,2023-04-09,Rajasthan Royals,Lucknow Super Giants,"Ekana Cricket Stadium, Lucknow",Lucknow,Lucknow Super Giants,bat,Rajasthan Royals,0,10,Prithvi Kohli,normal
+443,2023,2023-04-10,Royal Challengers Bangalore,Sunrisers Hyderabad,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,0,7,Hardik Markram,normal
+444,2023,2023-04-11,Mumbai Indians,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Royal Challengers Bangalore,0,6,Shardul Livingstone,normal
+445,2023,2023-04-12,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Chennai Super Kings,2,0,Ravichandran Kishan,normal
+446,2023,2023-04-13,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Delhi,Chennai Super Kings,bat,Chennai Super Kings,29,0,Yuzvendra Rahul,normal
+447,2023,2023-04-14,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Punjab Kings,bat,Gujarat Titans,0,6,Jos Jadeja,normal
+448,2023,2023-04-15,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",Kolkata,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,22,0,Marcus Labuschagne,tie
+449,2023,2023-04-16,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Mumbai Indians,field,Mumbai Indians,41,0,Jos Curran,normal
+450,2023,2023-04-17,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Punjab Kings,field,Rajasthan Royals,0,5,Virat Ashwin,normal
+451,2023,2023-04-18,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,bat,Kolkata Knight Riders,20,0,Washington Stokes,normal
+452,2023,2023-04-19,Mumbai Indians,Gujarat Titans,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Gujarat Titans,0,10,Marcus Rabada,normal
+453,2023,2023-04-20,Punjab Kings,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Punjab Kings,0,2,Kane Livingstone,normal
+454,2023,2023-04-21,Mumbai Indians,Lucknow Super Giants,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Mumbai Indians,bat,Lucknow Super Giants,0,2,Marcus Ashwin,normal
+455,2023,2023-04-22,Lucknow Super Giants,Mumbai Indians,"Ekana Cricket Stadium, Lucknow",Lucknow,Lucknow Super Giants,bat,Lucknow Super Giants,0,7,Nicholas Pooran,tie
+456,2023,2023-04-23,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Sunrisers Hyderabad,field,Gujarat Titans,0,1,Shreyas Iyer,normal
+457,2023,2023-04-24,Rajasthan Royals,Delhi Capitals,"Punjab Cricket Association Stadium, Mohali",Mohali,Rajasthan Royals,bat,Delhi Capitals,4,0,Sam Lynn,normal
+458,2023,2023-04-25,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",Delhi,Punjab Kings,field,Delhi Capitals,14,0,Steve Rahane,normal
+459,2023,2023-04-26,Kolkata Knight Riders,Gujarat Titans,"Eden Gardens, Kolkata",Kolkata,Gujarat Titans,field,Kolkata Knight Riders,0,10,Ishan Rahane,normal
+460,2023,2023-04-27,Chennai Super Kings,Lucknow Super Giants,"Ekana Cricket Stadium, Lucknow",Lucknow,Chennai Super Kings,bat,Chennai Super Kings,0,7,Sam Sharma,normal
+461,2023,2023-04-28,Royal Challengers Bangalore,Chennai Super Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,5,Axar Kumar,normal
+462,2023,2023-04-29,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Kolkata Knight Riders,bat,Gujarat Titans,120,0,Sam Khan,normal
+463,2023,2023-04-30,Lucknow Super Giants,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Gujarat Titans,bat,Lucknow Super Giants,0,3,Nicholas Pooran,normal
+464,2023,2023-05-01,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Mumbai,Sunrisers Hyderabad,bat,Mumbai Indians,5,0,Liam Jadeja,normal
+465,2023,2023-05-02,Royal Challengers Bangalore,Gujarat Titans,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Gujarat Titans,23,0,Jasprit Paine,normal
+466,2023,2023-05-03,Gujarat Titans,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai,Gujarat Titans,field,Delhi Capitals,25,0,Aiden Shami,normal
+467,2023,2023-05-04,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Rajasthan Royals,25,0,Jos Rahane,normal
+468,2023,2023-05-05,Lucknow Super Giants,Delhi Capitals,"Ekana Cricket Stadium, Lucknow",Lucknow,Lucknow Super Giants,field,Delhi Capitals,0,8,Marnus Bumrah,normal
+469,2023,2023-05-06,Chennai Super Kings,Delhi Capitals,"M. A. Chidambaram Stadium, Chennai",Chennai,Delhi Capitals,field,Chennai Super Kings,3,0,Prithvi Chahal,normal
+470,2023,2023-05-07,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,bat,Delhi Capitals,16,0,Kane Rabada,normal
+471,2023,2023-05-08,Rajasthan Royals,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Rajasthan Royals,0,4,Ajinkya Williamson,normal
+472,2023,2023-05-09,Chennai Super Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai,Chennai Super Kings,bat,Chennai Super Kings,55,0,Jos Sundar,normal
+473,2023,2023-05-10,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Mumbai Indians,0,3,Shardul Khan,normal
+474,2023,2023-05-11,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,field,Kolkata Knight Riders,4,0,Andre Starc,normal
+475,2023,2023-05-12,Sunrisers Hyderabad,Punjab Kings,"Wankhede Stadium, Mumbai",Mumbai,Sunrisers Hyderabad,field,Sunrisers Hyderabad,120,0,Faf Samson,normal
+476,2023,2023-05-13,Kolkata Knight Riders,Royal Challengers Bangalore,"Eden Gardens, Kolkata",Kolkata,Royal Challengers Bangalore,field,Royal Challengers Bangalore,11,0,Andre Khan,normal
+477,2023,2023-05-14,Lucknow Super Giants,Chennai Super Kings,"Ekana Cricket Stadium, Lucknow",Lucknow,Chennai Super Kings,bat,Lucknow Super Giants,2,0,Kane du Plessis,normal
+478,2023,2023-05-15,Mumbai Indians,Punjab Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Mumbai Indians,bat,Punjab Kings,34,0,Kagiso Stokes,normal
+479,2023,2023-05-16,Lucknow Super Giants,Punjab Kings,"Ekana Cricket Stadium, Lucknow",Lucknow,Lucknow Super Giants,bat,Punjab Kings,0,6,Cheteshwar Ashwin,normal
+480,2023,2023-05-17,Royal Challengers Bangalore,Rajasthan Royals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Rajasthan Royals,field,Rajasthan Royals,1,0,Rashid Maxwell,normal
+481,2023,2023-05-18,Kolkata Knight Riders,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",Jaipur,Kolkata Knight Riders,bat,Lucknow Super Giants,4,0,Marcus Green,normal
+482,2023,2023-05-19,Chennai Super Kings,Gujarat Titans,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Gujarat Titans,0,3,Bhuvneshwar Stokes,normal
+483,2023,2023-05-20,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Mumbai Indians,24,0,Trent Sundar,normal
+484,2023,2023-05-21,Chennai Super Kings,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",Jaipur,Chennai Super Kings,field,Chennai Super Kings,58,0,Kuldeep Patel,normal
+485,2023,2023-05-22,Sunrisers Hyderabad,Gujarat Titans,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Gujarat Titans,field,Gujarat Titans,0,3,Shreyas Iyer,normal
+486,2023,2023-05-23,Lucknow Super Giants,Royal Challengers Bangalore,"Ekana Cricket Stadium, Lucknow",Lucknow,Lucknow Super Giants,field,Lucknow Super Giants,0,10,Sanju Dhoni,normal
+487,2023,2023-05-24,Sunrisers Hyderabad,Lucknow Super Giants,"Wankhede Stadium, Mumbai",Mumbai,Lucknow Super Giants,field,Lucknow Super Giants,0,10,Jason Curran,normal
+488,2023,2023-05-25,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,bat,Rajasthan Royals,39,0,Hardik Iyer,normal
+489,2023,2023-05-26,Royal Challengers Bangalore,Lucknow Super Giants,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,6,0,Ben Rahane,normal
+490,2023,2023-05-27,Punjab Kings,Rajasthan Royals,"Ekana Cricket Stadium, Lucknow",Lucknow,Punjab Kings,field,Punjab Kings,0,6,Nicholas Rabada,normal
+491,2023,2023-05-28,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Chennai Super Kings,bat,Chennai Super Kings,1,0,Jason Rahane,normal
+492,2023,2023-05-29,Kolkata Knight Riders,Chennai Super Kings,"Eden Gardens, Kolkata",Kolkata,Chennai Super Kings,field,Chennai Super Kings,0,1,Ravichandran Shami,normal
+493,2023,2023-05-30,Punjab Kings,Sunrisers Hyderabad,"M. A. Chidambaram Stadium, Chennai",Chennai,Punjab Kings,bat,Punjab Kings,0,1,Axar Chahal,normal
+494,2023,2023-05-31,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",Kolkata,Delhi Capitals,field,Kolkata Knight Riders,0,8,Quinton Bairstow,normal
+495,2023,2023-06-01,Royal Challengers Bangalore,Kolkata Knight Riders,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,0,1,Hardik Iyer,normal
+496,2023,2023-06-02,Lucknow Super Giants,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,48,0,Ravindra Bumrah,normal
+497,2023,2023-06-03,Chennai Super Kings,Royal Challengers Bangalore,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,bat,Chennai Super Kings,1,0,Ravichandran Kishan,normal
+498,2023,2023-06-04,Royal Challengers Bangalore,Punjab Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Punjab Kings,field,Punjab Kings,0,3,Marnus Khan,normal
+499,2023,2023-06-05,Mumbai Indians,Delhi Capitals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Mumbai Indians,field,Mumbai Indians,15,0,Kuldeep Rahane,normal
+500,2023,2023-06-06,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,0,4,Rohit Maxwell,normal
+501,2023,2023-06-07,Punjab Kings,Lucknow Super Giants,"Punjab Cricket Association Stadium, Mohali",Mohali,Lucknow Super Giants,bat,Punjab Kings,0,1,Prithvi Yadav,normal
+502,2023,2023-06-08,Delhi Capitals,Gujarat Titans,"Eden Gardens, Kolkata",Kolkata,Delhi Capitals,field,Gujarat Titans,0,1,Sanju Rabada,normal
+503,2023,2023-06-09,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",Delhi,Sunrisers Hyderabad,field,Sunrisers Hyderabad,48,0,Axar Pant,normal
+504,2023,2023-06-10,Gujarat Titans,Lucknow Super Giants,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Gujarat Titans,field,Gujarat Titans,0,4,Kane Chahar,normal
+505,2023,2023-06-11,Punjab Kings,Gujarat Titans,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Punjab Kings,bat,Punjab Kings,17,0,Tim Lynn,normal
+506,2023,2023-06-12,Lucknow Super Giants,Sunrisers Hyderabad,"Ekana Cricket Stadium, Lucknow",Lucknow,Lucknow Super Giants,field,Sunrisers Hyderabad,17,0,Ben Rahul,normal
+507,2023,2023-06-13,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",Delhi,Kolkata Knight Riders,bat,Delhi Capitals,0,10,Sanju Kumar,normal
+508,2023,2023-06-14,Mumbai Indians,Chennai Super Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Chennai Super Kings,0,7,Ravichandran Kishan,normal
+509,2023,2023-06-15,Punjab Kings,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Mohali,Chennai Super Kings,field,Chennai Super Kings,27,0,Sam Sharma,normal
+510,2023,2023-06-16,Delhi Capitals,Lucknow Super Giants,"Arun Jaitley Stadium, Delhi",Delhi,Lucknow Super Giants,bat,Lucknow Super Giants,1,0,Jason Curran,normal
+511,2023,2023-06-17,Sunrisers Hyderabad,Rajasthan Royals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Rajasthan Royals,bat,Sunrisers Hyderabad,39,0,Alex Sundar,normal
+512,2023,2023-06-18,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Delhi Capitals,bat,Delhi Capitals,2,0,Tim Green,tie
+513,2023,2023-06-19,Rajasthan Royals,Royal Challengers Bangalore,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,bat,Rajasthan Royals,32,0,Glenn Pooran,normal
+514,2023,2023-06-20,Gujarat Titans,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",Jaipur,Mumbai Indians,bat,Mumbai Indians,0,1,Liam Yadav,normal
+515,2023,2023-06-21,Gujarat Titans,Royal Challengers Bangalore,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Gujarat Titans,bat,Gujarat Titans,0,10,Sanju Stoinis,normal
+516,2023,2023-06-22,Royal Challengers Bangalore,Delhi Capitals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,1,KL Maxwell,normal
+517,2024,2024-03-25,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Mumbai Indians,field,Mumbai Indians,0,7,Ravichandran Cummins,normal
+518,2024,2024-03-26,Punjab Kings,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Punjab Kings,9,0,Jos Iyer,normal
+519,2024,2024-03-27,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,bat,Punjab Kings,14,0,Aiden Chahar,normal
+520,2024,2024-03-28,Lucknow Super Giants,Delhi Capitals,"M. A. Chidambaram Stadium, Chennai",Chennai,Delhi Capitals,field,Lucknow Super Giants,1,0,Nicholas Pooran,normal
+521,2024,2024-03-29,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Gujarat Titans,bat,Gujarat Titans,97,0,Jos Jadeja,normal
+522,2024,2024-03-30,Kolkata Knight Riders,Royal Challengers Bangalore,"Eden Gardens, Kolkata",Kolkata,Royal Challengers Bangalore,bat,Kolkata Knight Riders,35,0,Nicholas Labuschagne,normal
+523,2024,2024-03-31,Lucknow Super Giants,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Mohali,Rajasthan Royals,bat,Lucknow Super Giants,0,1,Cheteshwar Smith,normal
+524,2024,2024-04-01,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Rajasthan Royals,field,Gujarat Titans,0,7,Steve de Kock,normal
+525,2024,2024-04-02,Lucknow Super Giants,Gujarat Titans,"Ekana Cricket Stadium, Lucknow",Lucknow,Lucknow Super Giants,bat,Lucknow Super Giants,9,0,Marcus Green,normal
+526,2024,2024-04-03,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Rajasthan Royals,0,3,Rashid Maxwell,normal
+527,2024,2024-04-04,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,bat,Rajasthan Royals,80,0,Sam Thakur,normal
+528,2024,2024-04-05,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,28,0,Ben Pooran,normal
+529,2024,2024-04-06,Punjab Kings,Lucknow Super Giants,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Punjab Kings,0,1,Kane Livingstone,normal
+530,2024,2024-04-07,Punjab Kings,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Kolkata Knight Riders,0,9,Marcus Kishan,normal
+531,2024,2024-04-08,Chennai Super Kings,Delhi Capitals,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Delhi Capitals,0,3,Yuzvendra Samson,normal
+532,2024,2024-04-09,Gujarat Titans,Mumbai Indians,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Mumbai Indians,field,Gujarat Titans,0,1,Ravindra Rahane,normal
+533,2024,2024-04-10,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,0,2,Kuldeep Sundar,normal
+534,2024,2024-04-11,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Delhi Capitals,23,0,Tim Green,normal
+535,2024,2024-04-12,Sunrisers Hyderabad,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Mohali,Royal Challengers Bangalore,field,Sunrisers Hyderabad,15,0,Axar Pant,normal
+536,2024,2024-04-13,Delhi Capitals,Royal Challengers Bangalore,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,bat,Delhi Capitals,1,0,Aiden Shami,normal
+537,2024,2024-04-14,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",Kolkata,Lucknow Super Giants,bat,Kolkata Knight Riders,36,0,Marcus Kishan,normal
+538,2024,2024-04-15,Chennai Super Kings,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Mohali,Royal Challengers Bangalore,field,Chennai Super Kings,0,5,Jasprit Samson,normal
+539,2024,2024-04-16,Gujarat Titans,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Gujarat Titans,field,Delhi Capitals,0,7,Ishan Shaw,normal
+540,2024,2024-04-17,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,6,0,Ajinkya Rahane,normal
+541,2024,2024-04-18,Royal Challengers Bangalore,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",Jaipur,Royal Challengers Bangalore,field,Sunrisers Hyderabad,5,0,Alex Chahal,normal
+542,2024,2024-04-19,Sunrisers Hyderabad,Gujarat Titans,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,0,2,Aiden Starc,normal
+543,2024,2024-04-20,Lucknow Super Giants,Kolkata Knight Riders,"Ekana Cricket Stadium, Lucknow",Lucknow,Kolkata Knight Riders,field,Kolkata Knight Riders,1,0,Kane Patel,tie
+544,2024,2024-04-21,Chennai Super Kings,Lucknow Super Giants,"Punjab Cricket Association Stadium, Mohali",Mohali,Lucknow Super Giants,bat,Chennai Super Kings,12,0,Jonny Behrendorff,normal
+545,2024,2024-04-22,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Mumbai Indians,0,3,Ravindra Smith,tie
+546,2024,2024-04-23,Mumbai Indians,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Royal Challengers Bangalore,4,0,Virat Starc,normal
+547,2024,2024-04-24,Delhi Capitals,Sunrisers Hyderabad,"Eden Gardens, Kolkata",Kolkata,Delhi Capitals,field,Delhi Capitals,7,0,Liam Green,normal
+548,2024,2024-04-25,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Sunrisers Hyderabad,0,2,Tim Russell,normal
+549,2024,2024-04-26,Royal Challengers Bangalore,Kolkata Knight Riders,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,7,0,Axar Shaw,normal
+550,2024,2024-04-27,Lucknow Super Giants,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",Jaipur,Lucknow Super Giants,field,Lucknow Super Giants,0,5,Shardul Stoinis,tie
+551,2024,2024-04-28,Chennai Super Kings,Gujarat Titans,"M. A. Chidambaram Stadium, Chennai",Chennai,Gujarat Titans,bat,Chennai Super Kings,0,1,Jos Sundar,normal
+552,2024,2024-04-29,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Gujarat Titans,field,Chennai Super Kings,24,0,Mitchell Paine,normal
+553,2024,2024-04-30,Rajasthan Royals,Lucknow Super Giants,"Ekana Cricket Stadium, Lucknow",Lucknow,Rajasthan Royals,field,Lucknow Super Giants,0,1,Glenn Patel,normal
+554,2024,2024-05-01,Punjab Kings,Gujarat Titans,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,bat,Gujarat Titans,0,2,Shardul Ashwin,normal
+555,2024,2024-05-02,Royal Challengers Bangalore,Delhi Capitals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,1,Ishan Gill,normal
+556,2024,2024-05-03,Chennai Super Kings,Rajasthan Royals,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Chennai Super Kings,bat,Rajasthan Royals,28,0,Kane Shaw,normal
+557,2024,2024-05-04,Lucknow Super Giants,Royal Challengers Bangalore,"Ekana Cricket Stadium, Lucknow",Lucknow,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,0,3,Andre Khan,normal
+558,2024,2024-05-05,Mumbai Indians,Gujarat Titans,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Mumbai Indians,26,0,Chris Patel,normal
+559,2024,2024-05-06,Delhi Capitals,Lucknow Super Giants,"Eden Gardens, Kolkata",Kolkata,Delhi Capitals,bat,Delhi Capitals,0,2,Sam Livingstone,normal
+560,2024,2024-05-07,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Punjab Kings,field,Punjab Kings,22,0,Prithvi Yadav,normal
+561,2024,2024-05-08,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Lucknow Super Giants,field,Lucknow Super Giants,39,0,Hardik Buttler,normal
+562,2024,2024-05-09,Sunrisers Hyderabad,Punjab Kings,"Arun Jaitley Stadium, Delhi",Delhi,Punjab Kings,bat,Punjab Kings,20,0,David Thakur,normal
+563,2024,2024-05-10,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",Kolkata,Rajasthan Royals,field,Rajasthan Royals,0,8,Glenn Pooran,normal
+564,2024,2024-05-11,Kolkata Knight Riders,Gujarat Titans,"Eden Gardens, Kolkata",Kolkata,Gujarat Titans,field,Gujarat Titans,9,0,Trent Chahar,tie
+565,2024,2024-05-12,Kolkata Knight Riders,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",Mohali,Sunrisers Hyderabad,bat,Kolkata Knight Riders,42,0,Andre Starc,normal
+566,2024,2024-05-13,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Delhi Capitals,1,0,Sanju Smith,normal
+567,2024,2024-05-14,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,field,Punjab Kings,0,3,David Curran,normal
+568,2024,2024-05-15,Kolkata Knight Riders,Delhi Capitals,"Punjab Cricket Association Stadium, Mohali",Mohali,Delhi Capitals,field,Kolkata Knight Riders,0,3,Marcus Kishan,normal
+569,2024,2024-05-16,Lucknow Super Giants,Sunrisers Hyderabad,"Ekana Cricket Stadium, Lucknow",Lucknow,Sunrisers Hyderabad,bat,Lucknow Super Giants,0,4,Shardul Stoinis,normal
+570,2024,2024-05-17,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Kolkata Knight Riders,70,0,Marcus Kishan,normal
+571,2024,2024-05-18,Chennai Super Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai,Kolkata Knight Riders,field,Kolkata Knight Riders,21,0,Hardik Iyer,normal
+572,2024,2024-05-19,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",Kolkata,Punjab Kings,field,Punjab Kings,0,6,Kagiso Stokes,normal
+573,2024,2024-05-20,Lucknow Super Giants,Chennai Super Kings,"Ekana Cricket Stadium, Lucknow",Lucknow,Chennai Super Kings,field,Chennai Super Kings,20,0,Tim Sharma,normal
+574,2024,2024-05-21,Rajasthan Royals,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai,Rajasthan Royals,bat,Rajasthan Royals,73,0,Rashid Maxwell,normal
+575,2024,2024-05-22,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Rajasthan Royals,0,7,Aiden Ashwin,normal
+576,2024,2024-05-23,Rajasthan Royals,Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",Jaipur,Kolkata Knight Riders,field,Kolkata Knight Riders,36,0,Ben Starc,normal
+577,2024,2024-05-24,Gujarat Titans,Sunrisers Hyderabad,"Ekana Cricket Stadium, Lucknow",Lucknow,Sunrisers Hyderabad,field,Gujarat Titans,39,0,Liam Green,normal
+578,2024,2024-05-25,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",Delhi,Delhi Capitals,field,Delhi Capitals,0,8,Kane Rabada,normal
+579,2024,2024-05-26,Punjab Kings,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Mohali,Chennai Super Kings,bat,Chennai Super Kings,0,7,Kagiso Behrendorff,normal
+580,2024,2024-05-27,Gujarat Titans,Lucknow Super Giants,"Punjab Cricket Association Stadium, Mohali",Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,0,4,Marcus Green,normal
+581,2024,2024-05-28,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Gujarat Titans,field,Gujarat Titans,32,0,Sam Khan,normal
+582,2024,2024-05-29,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Delhi,Chennai Super Kings,field,Delhi Capitals,0,5,Kane Rabada,normal
+583,2024,2024-05-30,Punjab Kings,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Delhi Capitals,field,Punjab Kings,0,1,Andre Chahar,normal
+584,2024,2024-05-31,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Hyderabad",Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,0,10,Hardik Markram,normal
+585,2024,2024-06-01,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",Delhi,Gujarat Titans,field,Delhi Capitals,0,8,Nicholas Yadav,tie
+586,2024,2024-06-02,Royal Challengers Bangalore,Gujarat Titans,"Punjab Cricket Association Stadium, Mohali",Mohali,Gujarat Titans,bat,Gujarat Titans,6,0,Kane Chahar,normal
+587,2024,2024-06-03,Kolkata Knight Riders,Chennai Super Kings,"Eden Gardens, Kolkata",Kolkata,Chennai Super Kings,bat,Kolkata Knight Riders,3,0,Kane Patel,normal
+588,2024,2024-06-04,Royal Challengers Bangalore,Lucknow Super Giants,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Lucknow Super Giants,field,Lucknow Super Giants,11,0,Marcus Ashwin,normal
+589,2024,2024-06-05,Royal Challengers Bangalore,Rajasthan Royals,"M. A. Chidambaram Stadium, Chennai",Chennai,Rajasthan Royals,field,Rajasthan Royals,0,6,Alex Samson,normal
+590,2024,2024-06-06,Royal Challengers Bangalore,Punjab Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Punjab Kings,field,Punjab Kings,0,3,Hardik Dhoni,normal
+591,2024,2024-06-07,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",Kolkata,Kolkata Knight Riders,bat,Kolkata Knight Riders,43,0,Ben Starc,normal
+592,2024,2024-06-08,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Jaipur,Delhi Capitals,field,Rajasthan Royals,0,5,Aiden Ashwin,normal
+593,2024,2024-06-09,Chennai Super Kings,Mumbai Indians,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Chennai Super Kings,0,1,Jason Rahane,normal
+594,2024,2024-06-10,Royal Challengers Bangalore,Chennai Super Kings,"M. Chinnaswamy Stadium, Bangalore",Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,9,0,Prithvi Chahal,normal
+595,2024,2024-06-11,Chennai Super Kings,Sunrisers Hyderabad,"M. A. Chidambaram Stadium, Chennai",Chennai,Sunrisers Hyderabad,field,Sunrisers Hyderabad,4,0,MS Smith,normal
+596,2024,2024-06-12,Punjab Kings,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,field,Punjab Kings,0,1,Jos Green,normal
+597,2024,2024-06-13,Punjab Kings,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",Mohali,Punjab Kings,bat,Punjab Kings,0,4,David Curran,normal
+598,2024,2024-06-14,Gujarat Titans,Royal Challengers Bangalore,"Sawai Mansingh Stadium, Jaipur",Jaipur,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,0,10,Shardul Maxwell,normal
+599,2024,2024-06-15,Lucknow Super Giants,Punjab Kings,"Ekana Cricket Stadium, Lucknow",Lucknow,Punjab Kings,field,Lucknow Super Giants,5,0,Nicholas Pooran,normal
+600,2024,2024-06-16,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",Mumbai,Lucknow Super Giants,bat,Mumbai Indians,41,0,Ravindra Smith,normal
+601,2024,2024-06-17,Royal Challengers Bangalore,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,Mumbai Indians,bat,Mumbai Indians,0,1,Jos Curran,normal
+602,2024,2024-06-18,Chennai Super Kings,Punjab Kings,"M. A. Chidambaram Stadium, Chennai",Chennai,Chennai Super Kings,field,Punjab Kings,13,0,Axar Chahal,normal
+603,2024,2024-06-19,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",Jaipur,Rajasthan Royals,field,Rajasthan Royals,0,3,Aiden Ashwin,normal
+604,2024,2024-06-20,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",Mumbai,Chennai Super Kings,bat,Mumbai Indians,35,0,Jos Curran,normal
+605,2024,2024-06-21,Rajasthan Royals,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur,Chennai Super Kings,bat,Chennai Super Kings,66,0,Ravichandran Shami,normal
+606,2024,2024-06-22,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai,Mumbai Indians,bat,Rajasthan Royals,32,0,Virat Labuschagne,normal
